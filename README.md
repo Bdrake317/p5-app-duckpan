@@ -511,7 +511,7 @@ View `env` commands and shows command usage.
 ```
 duckpan env set <name> <value>
 ```
-
+    
 Add an environment variable that duckpan will remember. Useful for
 spice API keys. Variables are stored in `~/.duckpan/config/env.ini`.
 
